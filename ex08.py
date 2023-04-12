@@ -11,5 +11,4 @@ idade = int(input('informe a idade do usuario:'))
 dias_vividos= 365 * idade
 horas_vividas = 24 * dias_vividos
 
-print(f'Dias vividos {dias_vividos}')
-print(f'Horas vividos {horas_vividas}')
+print(f'Dias vividos {dias_vividos} e horas vividas {horas_vividas}')
